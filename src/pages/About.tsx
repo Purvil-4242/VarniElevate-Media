@@ -40,7 +40,7 @@ const values = [
 const stats = [
   { value: "10+", label: "Clients Served" },
   { value: "1-2", label: "Years Experience" },
-  { value: "$15M+", label: "Revenue Generated" },
+  { value: "$15k+", label: "Revenue Generated" },
   { value: "95%", label: "Client Retention" },
 ];
 
