@@ -1,0 +1,48 @@
+Create a 10–12 second looping hero-section video for a Facebook & Instagram Ads Agency.  
+The style should be futuristic, high-tech, and data-driven, matching a dark navy blue gradient background with neon blue and purple accents.
+
+Scene 1 (0–3 sec):
+- Start with a smooth reveal of glowing 3D analytics dashboards and charts.
+- Include animated graphs rising, KPI counters increasing, and marketing metrics growing.
+- Add subtle glowing particle effects in the background.
+- Show minimal text overlay: “High-Converting Ads That Scale Your Business”.
+
+Scene 2 (3–6 sec):
+- Bring in UI elements from Facebook Ads Manager and Instagram Ads (no logos fully, just stylized interfaces).
+- Animate ad preview cards sliding in with smooth motion.
+- Show a mock ROAS bar increasing, lead counts rising, and cost-per-result improvements.
+- Text overlay: “Data-Driven Strategy. Real Results.”
+
+Scene 3 (6–9 sec):
+- Transition into neon 3D screens floating in space, showing dashboards, lead forms, ad creatives, and engagement icons.
+- Add soft glow reflection effects and light streak transitions.
+- Text overlay: “Grow Faster. Scale Smarter.”
+
+Scene 4 (9–12 sec):
+- End with the agency branding appearing in the center.
+- Display: “VarniElevate Media”
+- Beneath it: “Facebook & Instagram Ads Specialists”
+- Keep background animated with subtle moving gradients and floating data elements.
+- Ensure the video loops smoothly.
+
+Overall Style:
+- Futuristic, premium, agency-grade look.
+- Neon blue, cyan, purple color palette.
+- Smooth motion graphics, crisp UI animations, and high-energy techno feel.
+- No people, no talking head — only digital UI, analytics, ads, dashboards, and futuristic holographic elements.
+
+Audio:
+- Soft, upbeat, modern techno background music (optional).
+
+Output:
+- 1080p or 4K video.
+- Seamless loop for website hero section.
+
+
+
+
+
+
+Prompt for the Chatgpt 
+
+i own my Social Media Ads Manager (Facebook & Instagram Ads) Agency , so for the my website hero section i want add video , but i don't know editing or etc knolwedge , so how to make best video, which type of video i should be add, Can you guide me    

@@ -1,0 +1,42 @@
+✅ Final Pre-Deployment Checklist
+1. Mobile optimization
+
+Sab pages mobile pe clean dikh rahe hain?
+
+Fonts, buttons, spacing perfect?
+
+2. Page speed
+
+2–3 seconds ke andar load ho raha hai?
+
+3. All CTAs working
+
+“Book Strategy Call” link thik se redirect ho raha hai?
+
+“Get Free Audit / Contact Page” working?
+
+4. Dummy text / placeholder remove kiya?
+
+Phone number, email, social icons working?
+
+5. Case studies & testimonials real lag rahe hain?
+
+Formatting clean?
+
+Koi duplicate lorem text to nahi bacha?
+
+6. SEO basics
+
+Title tag
+
+Meta description
+
+OG tags
+
+7. Spelling / grammar
+
+Quick check kar lo (agar chaho toh main bhi check kar dunga).
+
+
+
+

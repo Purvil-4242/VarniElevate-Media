@@ -1,0 +1,53 @@
+[
+    {
+        "id": "service-1",
+        "title": "Facebook Ads Management",
+        "description": "From campaign structure to creative testing, we manage your entire Facebook advertising funnel.",
+        "icon": "Facebook",
+        "features": [
+            "Campaign setup & structure",
+            "Audience & interest targeting",
+            "Pixel & conversion tracking",
+            "A/B testing creatives",
+            "Daily monitoring & optimization",
+            "Monthly performance reporting"
+        ]
+    },
+    {
+        "id": "service-2",
+        "title": "Instagram Ads Management",
+        "description": "We create visually compelling Instagram campaigns that boost engagement and drive conversions.",
+        "icon": "Instagram",
+        "features": [
+            "Story & Reel ads",
+            "Carousel & feed ads",
+            "Creative strategy & copy",
+            "Audience profiling",
+            "Retargeting & lookalike audiences"
+        ]
+    },
+    {
+        "id": "service-3",
+        "title": "Ad Creatives & Copywriting",
+        "description": "Ads that stop the scroll and communicate clear value.",
+        "icon": "Palette",
+        "features": [
+            "Static graphics & banner ads",
+            "Short-form video ad concepts",
+            "High-converting ad copy",
+            "Offer positioning & messaging"
+        ]
+    },
+    {
+        "id": "service-4",
+        "title": "Analytics & Optimization",
+        "description": "We keep your campaigns lean, efficient, and growth-oriented.",
+        "icon": "TrendingUp",
+        "features": [
+            "Performance analysis",
+            "Budget reallocation",
+            "Scaling winning ads",
+            "Reducing cost per result"
+        ]
+    }
+]

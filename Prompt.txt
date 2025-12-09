@@ -1,0 +1,417 @@
+You are a professional front-end developer.  
+Create a modern, responsive multi-page website for a Social Media Ads Agency called **"VarniElevate Elevate"**.  
+The website should look like a premium digital marketing / performance ads agency site.
+
+=============================
+GENERAL REQUIREMENTS
+=============================
+
+1. Tech Stack:
+   - Use HTML, CSS, and JavaScript only (no frameworks required).
+   - Make the design fully responsive (mobile, tablet, desktop).
+
+2. Design Style:
+   - Clean, minimal, professional, agency-style.
+   - Use sections with enough white space.
+   - Rounded buttons, subtle hover effects.
+   - Use icons (can be from any icon library or simple placeholders).
+
+3. Color Palette (Brand Colors):
+   - Primary: Navy Blue – #0A1A2F
+   - Accent: Sky Blue – #00AEEF
+   - Background: White – #FFFFFF
+   - Neutral: Light Grey – #F5F5F5
+   - Text: Dark Grey / almost black
+
+4. Typography:
+   - Headings font: Poppins or Montserrat (or similar clean sans-serif).
+   - Body font: Inter or Open Sans (or similar).
+   - Heading sizes should be bold and clear.
+   - Body text must be readable with good line spacing.
+
+5. Global Layout:
+   - Sticky header with logo and navigation.
+   - Smooth scroll to sections on the same page where relevant.
+   - CTA (Call-To-Action) buttons should stand out using the accent color (#00AEEF).
+   - Add consistent padding/margins throughout for a premium feel.
+
+6. Pages to Create:
+   - Home
+   - Services
+   - Case Studies
+   - About
+   - Contact
+   (Pricing can be a section on Home or Services; you can decide best UX-wise.)
+
+Use the following content and structure in detail.
+
+=============================
+HEADER / NAVBAR (ALL PAGES)
+=============================
+
+- Left: Logo text → "VarniElevate Media"
+- Right: Navigation links:
+  - Home
+  - Services
+  - Case Studies
+  - About
+  - Contact
+- On the right side of nav, add a prominent button:
+  - Text: "Book a Free Strategy Call"
+  - This button should link to the Contact page / contact section.
+
+Make the header:
+- Transparent over hero section initially, then with white background on scroll (if possible).
+- Slight drop shadow on scroll for premium feel.
+
+=============================
+HOME PAGE STRUCTURE & CONTENT
+=============================
+
+SECTION 1: HERO SECTION (Above the Fold)
+----------------------------------------
+Layout:
+- Left: Main text (headline + subheadline + buttons)
+- Right: Illustration / analytics dashboard / ads-related mockup (placeholder image or graphic).
+
+Content:
+- Main Headline:
+  "We Boost Your Business Growth with High-Converting Facebook & Instagram Ads"
+
+- Sub-Headline:
+  "VarniElevate Media helps brands generate quality leads, consistent sales & long-term growth through data-driven ad strategies."
+
+- Primary CTA Button:
+  Text: "Book a Free Strategy Call"
+
+- Secondary CTA Button:
+  Text: "Get a Free Ad Audit"
+
+- Optional small text under buttons:
+  "No long-term contracts. Performance-focused partnership."
+
+SECTION 2: TRUST BADGES / PARTNERS
+----------------------------------
+Below the hero, add a simple strip with logos or text placeholders:
+- Text: "Trusted by brands looking to scale fast."
+- Show simple static badges like:
+  - Facebook Ads
+  - Instagram Ads
+  - Meta Business
+  - Analytics
+
+SECTION 3: SERVICES OVERVIEW (3 Cards)
+--------------------------------------
+Title: "What We Do"
+Subtitle: "Results-driven advertising services for fast growth."
+
+Create 3 service cards with icons:
+
+1) Card 1:
+   Title: "Facebook Ads Management"
+   Text:
+   "We create performance-focused Facebook ad campaigns designed to generate leads, increase sales, and scale your business."
+
+2) Card 2:
+   Title: "Instagram Ads Management"
+   Text:
+   "We build eye-catching Instagram ads that connect emotionally with your audience and convert them into customers."
+
+3) Card 3:
+   Title: "Ad Creatives & Copywriting"
+   Text:
+   "High-impact creatives and compelling ad copy designed to catch attention and drive conversions."
+
+Add a button below the cards:
+- Text: "View All Services"
+- Link: Services page.
+
+SECTION 4: WHY CHOOSE US
+------------------------
+Title: "Why Choose VarniElevate Media?"
+Subtitle (small): "We don’t just run ads — we grow businesses."
+
+Create 4 icon boxes:
+
+1) "ROI-Focused Approach"
+   Text: "Every campaign is planned with return on investment as the core metric."
+
+2) "Transparent Reporting"
+   Text: "Clear, easy-to-understand reports so you always know what’s working."
+
+3) "Dedicated Ad Manager"
+   Text: "A single point of contact managing and optimizing your campaigns."
+
+4) "Fast Communication"
+   Text: "Quick responses, weekly updates, and clear communication."
+
+SECTION 5: OUR PROCESS (3 Steps)
+--------------------------------
+Title: "Our 3-Step Growth Process"
+
+Show 3 steps in a horizontal or vertical timeline style:
+
+1) Step 1 – "Discover"
+   Text: "We understand your business, audience, and goals, and analyze your current marketing."
+
+2) Step 2 – "Launch"
+   Text: "We set up your campaigns, creatives, tracking, and test multiple variations."
+
+3) Step 3 – "Scale"
+   Text: "We optimize, refine, and scale winning campaigns for long-term growth."
+
+SECTION 6: HIGHLIGHTED CASE STUDY PREVIEW
+-----------------------------------------
+Title: "Real Results. Real Growth."
+
+Add 1–3 simple case study cards (these can be placeholder/sample):
+
+Example Case Study Card:
+- Client Type: "E-commerce Brand"
+- Goal: "Increase sales and reduce cost per purchase"
+- Strategy: "Audience testing, dynamic creatives, and retargeting funnel."
+- Results: "2.5X ROAS in 30 days."
+
+Add a button:
+- Text: "View More Case Studies"
+- Link: Case Studies page.
+
+SECTION 7: TESTIMONIALS SECTION
+-------------------------------
+Title: "What Our Clients Say"
+
+Create a slider or 2–3 testimonial cards (dummy content):
+
+Each testimonial:
+- Client Name (e.g., "Rahul Sharma")
+- Business Type (e.g., "Founder, Local Fitness Studio")
+- Review: 
+  "VarniElevate Media helped us generate consistent leads at a much lower cost. Communication was smooth and results were strong."
+- Star rating (e.g., ★★★★★)
+
+SECTION 8: PRICING PREVIEW (Optional on Home)
+---------------------------------------------
+Title: "Flexible Plans for Every Stage"
+
+Create 3 simple pricing cards:
+- "Starter"
+- "Growth"
+- "Scale"
+
+You can use text "Custom Pricing" instead of actual prices.
+
+Each card should mention:
+- Ad Management
+- Weekly Reporting
+- A/B Testing
+- Optimization
+
+Add a small note:
+"Pricing depends on your goals, ad spend, and industry. Let’s discuss what works best for you."
+
+SECTION 9: CTA SECTION NEAR FOOTER
+----------------------------------
+Create a full-width section with solid background (navy or dark blue).
+
+Content:
+- Title: "Ready to Grow Your Business with High-Converting Ads?"
+- Subtitle: "Let’s create an ad strategy that actually works."
+- Button: "Book a Free Strategy Call" (links to Contact page / form).
+
+=============================
+SERVICES PAGE STRUCTURE
+=============================
+
+Title at top: "Our Services"
+Subtitle: "End-to-end ad management for Facebook & Instagram."
+
+SECTION 1: INTRO
+----------------
+Short paragraph:
+"VarniElevate Media offers performance-focused ad services tailored to your business goals. Whether you want more leads, more sales, or more visibility, we design campaigns that deliver."
+
+SECTION 2: DETAILED SERVICES
+----------------------------
+
+Service Block 1:
+- Heading: "Facebook Ads Management"
+- Text:
+  "From campaign structure to creative testing, we manage your entire Facebook advertising funnel."
+- Bullet points:
+  - Campaign setup & structure
+  - Audience & interest targeting
+  - Pixel & conversion tracking
+  - A/B testing creatives
+  - Daily monitoring & optimization
+  - Monthly performance reporting
+
+Service Block 2:
+- Heading: "Instagram Ads Management"
+- Text:
+  "We create visually compelling Instagram campaigns that boost engagement and drive conversions."
+- Bullet points:
+  - Story & Reel ads
+  - Carousel & feed ads
+  - Creative strategy & copy
+  - Audience profiling
+  - Retargeting & lookalike audiences
+
+Service Block 3:
+- Heading: "Ad Creatives & Copywriting"
+- Text:
+  "Ads that stop the scroll and communicate clear value."
+- Bullet points:
+  - Static graphics & banner ads
+  - Short-form video ad concepts
+  - High-converting ad copy
+  - Offer positioning & messaging
+
+Service Block 4:
+- Heading: "Analytics & Optimization"
+- Text:
+  "We keep your campaigns lean, efficient, and growth-oriented."
+- Bullet points:
+  - Performance analysis
+  - Budget reallocation
+  - Scaling winning ads
+  - Reducing cost per result
+
+At the bottom add a CTA:
+"Not sure which service fits you best? → Book a Free Strategy Call."
+
+=============================
+CASE STUDIES PAGE STRUCTURE
+=============================
+
+Title: "Case Studies"
+Subtitle: "A closer look at how we help businesses grow."
+
+Create multiple case study cards using a consistent format:
+
+Case Study Template:
+--------------------
+- Client Type: e.g., "E-commerce Brand"
+- Industry: e.g., "Fashion & Apparel"
+- Goal: e.g., "Increase online sales and improve ROAS."
+- Strategy:
+  "We tested multiple audiences and creatives, set up a retargeting funnel, and optimized based on performance."
+- Results:
+  - "2.5X ROAS in 30 days"
+  - "40% drop in cost per purchase"
+  - "Increased repeat buyers through retargeting"
+- Conclusion:
+  "A focused strategy and continuous optimization helped this brand scale profitably."
+
+Add 2–3 sample case studies like this (content can be generic as examples).
+
+=============================
+ABOUT PAGE STRUCTURE & CONTENT
+=============================
+
+Title: "About VarniElevate Media"
+
+Layout:
+- Left: Text
+- Right: Image (placeholder for founder or team)
+
+Section 1: Who We Are
+---------------------
+Text:
+"VarniElevate Media is a performance-driven social media advertising agency specializing in Facebook and Instagram ads. Our mission is simple: help businesses grow faster with powerful, data-backed advertising."
+
+Section 2: Why We Exist
+-----------------------
+Text:
+"Many agencies focus only on clicks and impressions. We focus on results — leads, sales, and long-term growth. We believe in transparency, clear communication, and building long-term partnerships with our clients."
+
+Section 3: Our Approach
+-----------------------
+Create 3 small columns:
+
+1) "Research-Driven"
+   "We start by understanding your business, audience, and market."
+
+2) "Execution-Focused"
+   "From creatives to targeting, we handle every detail of your campaigns."
+
+3) "ROI-Centered"
+   "We’re obsessed with performance metrics and return on ad spend."
+
+Section 4: Our Promise
+----------------------
+Text:
+"We treat your business like our own. That means honest communication, consistent support, and a relentless focus on growth."
+
+Optional: Add a quote block:
+"Your growth is our mission."
+
+=============================
+CONTACT PAGE STRUCTURE & CONTENT
+=============================
+
+Title: "Let’s Grow Your Business Together"
+Subtitle: "Fill out the form and we’ll get back to you within 24 hours."
+
+Layout:
+- Left: Contact form
+- Right: Contact info and quick details
+
+Form Fields:
+- Name
+- Business Name
+- Email
+- Phone Number
+- Website / Social Media Links (optional)
+- Monthly Ad Budget (Dropdown: "Under $500", "$500–$1000", "$1000–$3000", "$3000+")
+- Message / What are your goals?
+
+Right Side Content:
+-------------------
+- "Email: vemedia.info@gmail.com"
+- "WhatsApp: +91-XXXXXXXXXX" (placeholder)
+- "Book a Call: [Button – 'Schedule on Calendly']" (link placeholder)
+
+Add a small reassurance line below form:
+"We respect your time and inbox. No spam, ever."
+
+=============================
+FOOTER (GLOBAL)
+=============================
+
+Footer Layout:
+- Column 1: Logo + short description
+  - "VarniElevate Media is a performance-focused social media ads agency helping brands grow with Facebook & Instagram advertising."
+
+- Column 2: Quick Links
+  - Home
+  - Services
+  - Case Studies
+  - About
+  - Contact
+
+- Column 3: Contact
+  - Email: vemedia.info@gmail.com
+  - WhatsApp: +91-XXXXXXXXXX
+  - Social Icons: Facebook, Instagram, LinkedIn (placeholder links)
+
+Bottom bar:
+- Text centered:
+  "© 2025 VarniElevate Media. All rights reserved."
+
+=============================
+INTERACTIONS & UX ENHANCEMENTS
+=============================
+
+- Add smooth scroll for in-page anchor links.
+- Add hover effects on buttons and cards (slight scale or shadow).
+- Make CTA buttons more prominent using the accent color.
+- Ensure mobile layout:
+  - Nav turns into a burger menu.
+  - Sections stack vertically.
+  - Text remains readable.
+
+=============================
+END OF SPEC
+=============================
+
+Use all of the above structure, layout, and content to generate clean, well-organized HTML, CSS, and JavaScript for the full website.
