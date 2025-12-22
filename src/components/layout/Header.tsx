@@ -4,7 +4,6 @@ import { Menu, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
 import logoImage from "@/assets/20005bc2-ad17-482f-958d-b84328b2e081-removebg-preview.png";
-
 const navLinks = [
   { href: "/", label: "Home" },
   { href: "/services", label: "Services" },

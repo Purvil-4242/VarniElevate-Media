@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <footer className="bg-primary text-primary-foreground">
       <div className="container-custom py-16">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-12">
           {/* Brand Column */}
           <div className="lg:col-span-1">
             <Link to="/" className="inline-block mb-4">
@@ -90,6 +90,23 @@ const Footer = () => {
                   </Link>
                 </li>
               ))}
+            </ul>
+          </div>
+
+          {/* Legal */}
+          <div>
+            <h4 className="font-heading font-semibold text-lg mb-4">
+              Legal
+            </h4>
+            <ul className="space-y-3">
+              <li>
+                <Link
+                  to="/privacy-policy"
+                  className="text-primary-foreground/70 hover:text-accent transition-colors text-sm"
+                >
+                  Privacy Policy
+                </Link>
+              </li>
             </ul>
           </div>
 
