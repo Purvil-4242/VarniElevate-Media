@@ -95,3 +95,19 @@ Owner: Purvil Gajera
 Email: vemedia.info@gmail.com
 
 Location: Surat, Gujarat, India
+
+
+
+
+
+
+
+
+
+
+
+cd "c:\Users\Purvil\Desktop\Projects\Social Agency\VarniElevate Media"
+git status
+git add .
+git commit -m "Add Privacy Policy page and update footer"
+git push origin main
